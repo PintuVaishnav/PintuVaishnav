@@ -1,4 +1,5 @@
-👋 Hi, I'm Vaishnav Yejju, a passionate BCA student at Bhavan's Vivekananda College with a strong focus on frontend web development and Android app creation. 🌐
+Hi There👋,
+I'm Vaishnav Yejju, a passionate BCA student at Bhavan's Vivekananda College with a strong focus on frontend web development and Android app creation. 🌐
 
 🔍 My expertise includes:
 - HTML, CSS, JavaScript, Java, Kottlin
