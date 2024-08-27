@@ -6,14 +6,14 @@
 - 🔭 I’m currently working on **a secret project**
 
 - 🌱 I’m currently learning **backend**
-  
-- 🏆 1st Prize in Android Development at National Science Day
 
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **vaishnavyejju@gmail.com**
 
 - ⚡ Fun fact **I'm Insane**
+  
+- 🏆 1st Prize in Android Development at **National Science Day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
