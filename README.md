@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **a secret project**
 
 - 🌱 I’m currently learning **backend**
-- 
+  
 - 🏆 1st Prize in Android Development at National Science Day
 
 - 💬 Ask me about **Android**
