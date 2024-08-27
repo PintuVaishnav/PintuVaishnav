@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Yejju</h1>
 <h3 align="center">A passionate Frontend developer and Android developer from India</h3>
 
-<img  align = "right" width="400" src="https://github.com/PintuVaishnav/PintuVaishnav/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966.gif" alt="coding">
+<video  align = "right" width="400" src="https://github.com/PintuVaishnav/PintuVaishnav/blob/main/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966.gif" alt="coding">
 
 - 🔭 I’m currently working on **a secret project**
 
