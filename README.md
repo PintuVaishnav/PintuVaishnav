@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Yejju</h1>
 <h3 align="center">A passionate Frontend developer and Android developer from India</h3>
 
-<img align="right" width="400" src="demo.gif" alt="coding" />
+<img align="right" width="400" src="madara.gif" alt="coding" />
 
 - 🔭 I’m currently working on **my portfolio**
 
