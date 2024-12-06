@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Yejju</h1>
-<h3 align="center">A passionate Frontend developer and Android developer from India</h3>
+<h3 align="center">An aspiring DevOps Engineer from India with a background in frontend and Android development.  </h3>
 
 <img align="right" width="400" src="madara.gif" alt="coding" /> 
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **My Database Projects**
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **Networking**
 
 - 💬 Ask me about **Android**
 
