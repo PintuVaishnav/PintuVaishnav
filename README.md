@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Yejju</h1>
-<h3 align="center">An aspiring DevOps Engineer from India with a background in frontend and Android development.  </h3>
+<h3 align="center">An Aspiring DevOps Engineer from India with a background in frontend and Android development.  </h3>
 
 <img align="right" width="400" src="madara.gif" alt="coding" /> 
 
