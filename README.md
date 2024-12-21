@@ -3,7 +3,7 @@
 
 <img align="right" width="400" src="madara.gif" alt="coding" /> 
 
-- 🔭 I’m currently working on **My Database Projects**
+- 🔭 I’m currently working on **My Networking Projects**
 
 - 🌱 I’m currently learning **Networking**
 
