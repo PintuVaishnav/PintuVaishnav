@@ -3,17 +3,17 @@
 
 <img align="right" width="400" src="madara.gif" alt="coding" /> 
 
-- 🔭 I’m currently working on **My Networking Projects**
+- 🔭 I’m currently working on **Pipelines**
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **CI/CD**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android && Devops**
 
 - 📫 How to reach me **vaishnavyejju@gmail.com**
 
 - ⚡ Fun fact **I'm Insane**
 
-- 🏆 1st Prize in Android Development at **National Science Day**
+- 🏆 Special Prize in Android Development at **National Science Day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
