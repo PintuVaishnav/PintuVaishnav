@@ -3,9 +3,9 @@
 
 <img align="right" width="400" src="madara.gif" alt="coding" /> 
 
-- 🔭 I’m currently working on **Pipelines**
+- 🔭 I’m currently working on **projects**
 
-- 🌱 I’m currently learning **CI/CD**
+- 🌱 I’m currently learning **kubernetes**
 
 - 💬 Ask me about **Android && Devops**
 
