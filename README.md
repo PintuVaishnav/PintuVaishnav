@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **projects**
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **Terraform**
 
 - 💬 Ask me about **Android && Devops**
 
