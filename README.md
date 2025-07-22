@@ -3,11 +3,11 @@
 
 <img align="right" width="400" src="madara.gif" alt="coding" /> 
 
-- 🔭 I’m currently working on **projects**
+- 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **Terraform**
 
-- 💬 Ask me about **Android && Devops**
+- 💬 Ask me about **Android && DevOps**
 
 - 📫 How to reach me **vaishnavyejju@gmail.com**
 
