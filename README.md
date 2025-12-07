@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **ArgoCD**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Android && DevOps**
 
