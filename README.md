@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnav Yejju</h1>
 <h3 align="center">DevOps enthusiast from India with a Web Dev and Android background, skilled in CI/CD, containers, and cloud deployment.</h3>
 
-<img align="right" width="300" height="250px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhkc3IycXdwMnNhazFmYWdqYnlobXRiN2dvN2J5cnk5eHh4MGF5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" style="transform: scaleY(-1);" />
+<img align="right" width="300" height="250px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjFqcjludWJwcjJwZG01bTFwc2hkOGw2aWJqamgzM29ndGVqY2JxdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif" style="transform: scaleY(-1);" />
 
 
 
